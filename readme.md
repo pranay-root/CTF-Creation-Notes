@@ -2,6 +2,12 @@ Here’s a complete guide on creating Linux-based CTF machines for your students
 
 ### **Creating Linux-Based CTF Machines**
 
+**The most important things to create a CTF Machine**
+- ** 1. Researching Existing Vulnerabilities**
+- ** 2. Can you Implement that vulnerability in your scenario **
+- ** 3. Utilizing AI to generate BE and FE development Needed **
+- ** 4. Understanding the services and Creatively Utilizing and Planning the Structure **
+
 #### **1. Environment Setup**
 
 **Virtualization vs. Containers**:
